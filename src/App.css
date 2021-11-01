@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: lightgray;
+  color:black;
+  width:55%;
+  min-height: 100vh;
+  padding:2vmin;
+}
+.AnswerHolder {
+  max-width:100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.QuestionAnswer {
+  font-size: calc(9px + 1vmin);
+}
+/* Clickable answer header */
+.AnswerHeader {
+  width:calc(100% - 4px);
+  border:solid black 2px;
+  cursor: pointer;
+  margin-bottom:0px;
+}
+/* The answer body text styling */
+.AnswerAnswer {
+  width:calc(99% - 2px);
+}
+.AnswerCollapsed {
+  height:0px;
+  overflow: hidden;
+}
+.AnswerExpanded {
+  border: black solid 2px;
+  border-top:hidden;
+}
+
+
+.App-link {
+  color: #61dafb;
+}

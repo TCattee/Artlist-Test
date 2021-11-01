@@ -1,0 +1,66 @@
+{
+  "Features": [
+    {
+      "Question": "Where are my 3D models? Why does my model not import but it is a supported file type?",
+      "Answer": "3D models are not included with HitFilm. Instead, you can import your own 3D models, in a similar way to importing your video footage. You can create your own models in programs like 3D Studio Max, Cinema4D and Blender or download models from the internet.\nHitFilm supports a variety of common formats: LWO, OBJ, 3DS, FBX and ABC. These formats incorporate a wide variety of features. While most will work in HitFilm, some may use specific features which are not currently supported in HitFilm.\nHitFilm Express supports 3D model import, but renders them with a watermark unless the 3D: Model Render add-on pack is purchased and enabled."
+    },
+    {
+      "Question": "Can I create 3D text and titles?",
+      "Answer": "HitFilm Pro includes tools for creating 2D and 3D text. Your titles can be incorporated into a motion graphics animation or composited into live action footage using HitFilm’s integrated motion tracking features. Boris 3D Objects, which include Boris Title Studio, provide further advanced titling tools.\nIf you are in HitFilm Express an add-on package will be required for 3D Extrusion."
+    },
+    {
+      "Question": "Can I edit my movies?",
+      "Answer": "HitFilm combines video editing, visual effects and 3D compositing. The editor features a multi-track timeline, trimmer, transitions, volume and opacity graphs and essential editing tools such as roll, ripple, slip and slide.\nUnique to HitFilm is the ability to select any clip on your editing timeline and instantly convert it to a ‘composite shot’, enabling you to add visual effects without needing to export shots and transfer video between multiple programs. This revolutionary workflow provides a super-fast, interactive approach to post-production."
+    },
+    {
+      "Question": "Can I import 3D models?",
+      "Answer": "HitFilm is the only editor-compositor able to import 3D models without needing extra plug-ins. Multiple formats (.fbx, .lwo, .obj, .abc and .3ds) can be imported to HitFilm Pro and composited on the timeline like any other asset. HitFilm Pro supports lwo, .obj, .abc, .fbx and .3ds. The .abc and .fbx formats support animation data. Earlier versions of HitFilm Pro will support fewer 3D formats.\n3D models are listed alongside your videos, images and audio for easy access and include texturing, self-shadowing and shadow casting and group animation features. 3D models integrate with HitFilm’s interface and effects, making them fast and easy to use."
+    },
+    {
+      "Question": "Can I shoot on green screen and blue screen?",
+      "Answer": "You can use green screen or blue screen footage in HitFilm without any problems. Advanced keyers and matte enhancement tools easily remove the green screen, ready for the video to be composited with other layers."
+    },
+    {
+      "Question": "Is there a particle engine?",
+      "Answer": "Yes! In fact, HitFilm includes multiple particle engines. All of them are fully enabled in HitFIlm Pro. If you are using HitFilm Express, all particle bases effects can be trialed, but some will require the purchase of add-ons to enable them.\nNo other video software includes anything as powerful as HitFilm’s particle simulator, which is capable of full 3D particle simulation with multiple forces and deflectors for physics-based animation. It is fully customizable and capable of an unlimited variety of visual effects. The Particle Simulator is fully enabled in HitFilm Pro. For HitFilm Express, it can be enabled by purchasing the 3D: Particles add-on pack."
+    },
+    {
+      "Question": "Can I create lens flares?",
+      "Answer": "You certainly can! HitFilm includes several advanced effects for creating your own lens flares and light effects.\nLight flares are fully customizable and lens artefacts animate automatically as the flare is moved. Flares can even be linked to motion tracking data to create advanced animation. Both HitFilm Pro and HitFilm Express include standard Light Flares and Auto Light Flares, which identifies the brightest parts of your shot and applies realistic lens flares."
+    }
+  ],
+  "Purchasing & Licenses": [
+    {
+      "Question": "Is there a free demo?",
+      "Answer": "HitFilm Pro\nThere is a free demo of HitFilm Pro. The demo version does not have an expiry time limit, but all exports will contain a watermark.\nYou can activate the demo by purchasing the full version at any time. Projects created while using the demo will still work in the full version.\nDownload the HitFilm Pro demo\n\nIgnite Pro\nThere is a free demo available for Ignite Pro. The demo version is fully functioning and does not have an expiry time limit, however all exported videos will contain a watermark.\nYou can activate the demo by purchasing the full version at any time. Projects created while using the demo will still work in the full version.\nDownload the Ignite Pro demo\n\nImerge Pro\nThere is a free demo available for Imerge Pro. The demo version is fully functioning and does not have any limits, however all exports will contain a watermark.\nYou can activate the demo by purchasing the full version at any time. Projects created while using the demo will still work in the full version.\nDownload the Imerge Pro demo"
+    },
+    {
+      "Question": "Do I qualify for a free upgrade to the new product?",
+      "Answer": "All purchased licenses of any of our video products come with a full 365 days of free updates. Any update to the existing version, or any new full version of the software that is released within 365 days of your purchase is made available to you at no additional cost. You receive full and permanent access to all versions released within that year of updates, so even if you choose not to purchase another upgrade when the year ends, you do not lose access to your software. You maintain a permanent license to every version released during that time period, through your account.\nAfter the year ends, you have the option to purchase another year of updates at any time, to bring your software current."
+    },
+    {
+      "Question": "Can I let my friend use my software?",
+      "Answer": "HitFilm licenses are for personal use only. HitFilm Pro, Ignite Pro and Action Pro allow activation on 3 separate computers, while Ignite Express and HitFilm Express allow activation on a single computer.\nRead the HitFilm Pro license agreement\nRead the HitFilm Express license agreement\nRead the Ignite Pro license agreement\nRead the Imerge Pro license agreement\nRead the Action Pro license agreement\nRead the Ignite Express license agreement\n"
+    },
+    {
+      "Question": "Why is the store only in US dollars, Pounds, Euros?",
+      "Answer": "These are the main territories where we find our customers. If you live elsewhere, you will see pricing in US dollars.\nhere applicable our prices include relevant local taxes, for example Euro and Pound prices include VAT"
+    },
+    {
+      "Question": "Can I activate on multiple computers?",
+      "Answer": "HitFilm Pro, Ignite Pro and Action Pro\nThe software will run in demo mode until activated. It can be activated on up to 3 computers at any one time.\nThe software is not permanently ‘locked’ to any activated computer, so you can always de-activate and transfer the activation to a different computer if needed.\nYou can always re-download your software from https://fxhome.com/account without needing to re-purchase.\nPlease note that different activation limits and product updates may be in place from time to time for special promotions and offers and will be advertised by the third party at the time of the offer being available.\n\nHitFilm Express\nHitFilm Express may be activated on 1 computer at a time.\nThe software is not permanently ‘locked’ to an activated computer, so you can always de-activate and transfer the activation to a different computer if needed.\n"
+    },
+    {
+      "Question": "Can I get a refund?",
+      "Answer": "We always recommend trying the free demo before purchasing to make sure the software suits your needs and is compatible with your computer.\nYou are entitled to cancel your purchase for any reason (other than the excepted reasons as set out below) up to 14 days after the date of purchase.\nTo exercise the right to cancel, you must inform us of your decision to cancel your contract by a clear statement sent to our Customer Support Team, including details of your name, geographical address, details of the order you wish to cancel and, where available, your phone number and email address so we can confirm the returns procedure and process any refund that might be owed to you. We will offer you the opportunity to replace the products cancelled.\nYou should return the goods to us at your cost within 14 days of such cancellation The products must be returned in “as new” condition (unless returned because damaged) and complete with any accessories or free gifts offered with the purchase. If you are returning a bundle you must return all the items it included.\nDuring the period between receiving and returning the products you must retain possession and take reasonable care of the products.\nOn receipt of your returned products you will receive a refund within 30 days.\n"
+    },
+    {
+      "Question": "Why does my bank show an extra charge?",
+      "Answer": "In accordance with European Distance Selling Regulations, FXHOME Ltd always shows the full price of the goods plus shipping (NB customs and excise may apply separately) before your check out of the store.\nHowever, your bank credit or debit card issuer may charge an additional fee for the purchase if you are buying from outside of the UK, where FXHOME Ltd is based. This charge may show as .FXHOME Ltd.  or .Overseas Transactions Fee., or another entry. This fee is not collected by FXHOME and we have no power to provide a refund of this fee.\nWe recommend checking with your card issuer before you purchase if you are unsure whether such a fee may be applied to your order."
+    },
+    {
+      "Question": "When does the 12 month renewal begin?",
+      "Answer": "When you purchase a license for any of our Pro products, you can immediately download the current version of the software, and you will receive permanent access to all updates for the software released within the following 365 days after your purchase.\nFor example, if you purchase on April 8, 2019, then you get immediate access to all updates released until April 8, 2020. After that, you no longer receive updates, but you retain permanent access to the last version released before April 8, 2020.\nPlease note that there are exceptions. You get 12 months of updates from registration, unless your license is bought through a third party promotion, for example Humble Bundle. In this case, your 12 months of updates will begin from the point of purchase or the end date of the sale.\nYou can purchase a renewal for your license, to receive another 12 months of updates. If you renew during an existing update period, the renewal will begin the day that your existing update period ends. If you renew after your update period has expired, then the renewal begins on the day you purchase.\nFor example, if you purchase your license on April 8, 2019, then purchase a renewal one month later, on May 8 2019, the renewal period will begin on April 8 2020 and extend until April 8, 2021.\nIf you purchase your license on April 8, 2019, then wait 18 months to purchase a renewal, on October 8, 2020, then the renewal period will begin on October 8, 2020 and extend to October 8, 2021."
+    }
+  ]
+}
